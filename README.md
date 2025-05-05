@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">🚀 What I’m working on:<br>-  Data analytics & visualization (Tableau, Power BI)<br>-  ML models for predictive analysis & automation<br>- 💰 AI-based finance & investment tools  <br>- 📊 Business dashboards that drive impact<br><br>🤝 I'm open to:<br>-  Collaborating on impactful AI/DS projects<br>-  Internship or freelance roles in Data, AI, or Business Analytics<br>-  Conversations about startups, investing, and product-building<br><br>🧠 Things I love:<br>-  Turning raw data into actionable insights  <br>- 📈 Building products that create value  <br>- 📚 Reading books on money, tech, and mindset  <br>- Leveling up with consistent habits</p>
+<p align="center">🚀As a data-driven problem solver, I enjoy working at the intersection of **business and technology** — uncovering trends, identifying inefficiencies, and recommending solutions that improve performance. I’ve applied these skills in academic projects and personal explorations, and I'm now seeking **internship or entry-level opportunities** to gain hands-on experience in a corporate environment.
+
+With a solid foundation in **data analysis**, **Excel modeling**, **ML workflows**, and **BI dashboards**, I’m confident in my ability to support real-world decision-making and deliver **measurable impact**.
+</p>
 
 ###
 
@@ -63,3 +66,5 @@
 </div>
 
 ###
+
+> “I’m not just learning to code — I’m building tools to change lives.”
