@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🎯 Aspiring Tech Entrepreneur | AI & Data Science Engineer | Business Analyst Intern  <br>💡 Building smart solutions to solve real-world financial & social problems</p>
+<p align="center">🎯 Aspiring Tech Entrepreneur | AI & Data Science Engineer | Business Analyst Intern  <br>💡 Building smart solutions to solve real-world financial & social problems</p>
 
 ###
 
-<h2 align="center">About me!</h2>
+<h2 align="center">About me</h2>
 
 ###
 
