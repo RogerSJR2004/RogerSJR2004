@@ -1,27 +1,66 @@
 <h1 align="center">Hi there, I'm Roger 👋</h1>
 
 <p align="center">
-🎯 Aspiring Tech Entrepreneur | AI & Data Science Engineer | Business Analyst Intern  
-💡 Passionate about building smart solutions for real-world financial and social challenges
+🎯 Tech Entrepreneur in the Making • AI & Data Science Engineer • Business Analyst Intern  
+💡 Passionate about building intelligent systems to solve financial and social challenges
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="center">
-I’m a data-driven problem solver who thrives at the intersection of <strong>business and technology</strong>.  
-I specialize in uncovering patterns, analyzing systems, and designing solutions that create measurable value.
+I'm a results-driven engineer at the intersection of **technology, business, and innovation**. I specialize in applying **AI**, **ML**, and **data-driven systems** to build impactful, scalable solutions.
 
-From academic projects to self-driven initiatives, I’ve consistently demonstrated the ability to turn raw data into meaningful insights and now I’m actively seeking <strong>internship and entry-level opportunities</strong> to expand my impact in a professional environment.
+My journey is shaped by resilience and curiosity. I’m committed to leveraging cutting-edge tools to not only optimize performance but also **empower users and create social value**.
 
-I bring a strong foundation in:
-- 📊 Data Analysis & Visualization
-- 📈 Business Intelligence Dashboards
-- 🤖 ML Workflows & Predictive Modeling
-- 📋 Requirement Analysis & Strategic Planning
+🔍 **Currently seeking internship or entry-level opportunities** in AI, data science, or business/tech strategy where I can deliver value while continuing to grow.
 
-</p>
+---
+
+## 🧠 Core Skills
+
+- 🧮 **Data Analysis & Visualization**  
+  Python (Pandas, NumPy), Power BI, Excel, Seaborn, Matplotlib
+
+- 📊 **Business Intelligence & Reporting**  
+  KPI dashboards, real-time analytics, stakeholder-ready insights
+
+- 🤖 **Machine Learning & Predictive Modeling**  
+  Scikit-learn, XGBoost, ML pipelines, model tuning & evaluation
+
+- 🧠 **LLMs & AI Agents**  
+  LangChain, LangGraph, OpenAI API, multi-agent orchestration
+
+- 🗺️ **Strategic Thinking & Requirement Analysis**  
+  Bridging technical and business goals with a product mindset
+
+- 🚀 **Entrepreneurial Mindset**  
+  Experience building prototypes & solutions with real-world application
+
+---
+
+## 🧪 Current Projects
+
+- 🧠 **Financial Research AI Agent**  
+  An intelligent agent for stock analysis, using LLMs and APIs to synthesize insights
+
+- 🕸️ **LangGraph Multi-Agent System**  
+  Building a modular framework for structured task delegation with stateful agents
+
+- 💵 **AI-Driven Personal Finance App**  
+  A platform to help users manage debt, plan budgets, and make smart financial decisions
+
+- 🧾 **GenAI Sandbox**  
+  Experimenting with prompt engineering, creative generation, and autonomous code agents
+
+---
+
+## 🎯 Goals
+
+- Apply AI/ML in high-impact business applications  
+- Contribute to cross-functional teams solving complex real-world problems  
+- Build and launch **AI-powered products** that are both technically robust and socially relevant  
+- Uplift others by creating systems that make **financial literacy** and **technology** more accessible  
 
 ---
 
