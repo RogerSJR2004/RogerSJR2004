@@ -126,4 +126,4 @@ With a strong foundation in **predictive modeling**, **business intelligence**, 
 
 ---
 
-> *"Building the future, one intelligent system at a time."*
+> *Turning data into decisions, and ideas into impact*
