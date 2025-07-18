@@ -47,33 +47,28 @@ With a strong foundation in **predictive modeling**, **business intelligence**, 
 
 ## 🚀 Featured Projects
 
-### Financial Research AI Agent  
-*Intelligent system for real-time stock market analysis*  
-- Developed an AI-powered agent using LLMs and financial APIs to deliver actionable investment insights  
-- Implemented modular workflows for scalability across market conditions  
-- **Tech Stack**: Python, LangChain, OpenAI API, Pandas, Yahoo Finance API  
-- [View Repository](https://github.com/RogerSJR2004/financial-research-agent)
+### Predictive Analytics for Customer Churn 
+*Machine learning system for predicting customer retention*  
+- Implemented feature engineering and hyperparameter tuning to achieve 92% accuracy in churn prediction
+- Implemented feature engineering and hyperparameter tuning to achieve 92% accuracy in churn prediction  
+- **Tech Stack**:  Python, Scikit-learn, XGBoost, Pandas, Matplotlib
+- [View Repository](https://github.com/RogerSJR2004/Machinelearning-projects)
 
 ### LangGraph Multi-Agent Framework  
 *Scalable framework for stateful multi-agent task orchestration*  
 - Engineered a modular system for coordinating complex AI workflows with state persistence  
 - Optimized for extensibility, supporting applications from automation to analytics  
 - **Tech Stack**: LangGraph, Python, JSON, Docker  
-- [View Repository](https://github.com/RogerSJR2004/langgraph-framework)
+- [View Repository](https://github.com/RogerSJR2004/LLM_Projects)
 
-### AI-Driven Personal Finance Platform  
-*User-centric app for financial planning and debt management*  
-- Built an AI-powered tool with predictive modeling for personalized budgeting and investment strategies  
-- Designed an intuitive UI with real-time analytics for enhanced user engagement  
-- **Tech Stack**: Python, Scikit-learn, Flask, SQLite, JavaScript  
-- [View Demo](https://github.com/RogerSJR2004/personal-finance-app)
-
-### GenAI Sandbox  
-*Experimental platform for advanced prompt engineering and AI automation*  
-- Explored innovative LLM applications, including code generation and autonomous task execution  
-- Optimized prompt design for precision and efficiency in real-world scenarios  
-- **Tech Stack**: Python, OpenAI API, Jupyter, Hugging Face  
-- [View Repository](https://github.com/RogerSJR2004/genai-sandbox)
+### Data Science Investment Insights
+*Data-driven platform for analyzing household data and guiding investment decisions*  
+- Conducted exploratory data analysis on household datasets to identify spending patterns and financial behaviors
+- Built predictive models to recommend tailored investment options for customers based on risk profiles and goals 
+- Optimized prompt design for precision and efficiency in real-world scenarios
+- Delivered insights through BI tools and dashboards to support stakeholder decision-making
+- **Tech Stack**: Python, Pandas, scikit-learn, Power BI / Tableau, Jupyter 
+- [View Repository](https://github.com/RogerSJR2004/Data-Analytics-Projects)
 
 ---
 
